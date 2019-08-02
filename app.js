@@ -40,4 +40,5 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
+/** @갓상용 */
 module.exports = app;
